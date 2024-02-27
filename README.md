@@ -1,6 +1,6 @@
 # Flutter-Bunga-App
 
-![Bunga App](https://github.com/nobelleon/Flutter-Bunga-App/assets/76748114/c2a1947c-699a-48c7-a650-18a66e4955a4)
+![Bunga App](https://github.com/nobelleon/Flutter-Bunga-App/assets/76748114/74b2a006-a6bd-44a8-905a-e14c3a1637ca)
 
 A new Flutter application.
 
