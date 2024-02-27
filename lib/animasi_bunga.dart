@@ -58,7 +58,7 @@ class _AnimasiBungaState extends State<AnimasiBunga>
     animationController!.addListener(() {
       if (animationController!.status == AnimationStatus.forward) {
         setState(() {
-          breatheText = 'Keluarkan..';
+          breatheText = 'Hembuskan..';
           textColor = color4;
         });
       }
